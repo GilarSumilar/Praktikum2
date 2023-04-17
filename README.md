@@ -8,6 +8,6 @@
 | **Kelas** | TI.22.A.4 |
 | **Mata Kuliah** | Basis data |
 
-# 
+# Membuat database kampus
 
 ## Tugas Praktikum 
