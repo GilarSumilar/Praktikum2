@@ -5,7 +5,7 @@
 | -------- | --- |
 | **Nama** | Gilar Sumilar |
 | **NIM** | 312210407 |
-| **Kelas** | TI.22.A.4 |
+| **Kelas** | TI.22.A4 |
 | **Mata Kuliah** | Basis data |
 | **Link Penjelasan** | [Klik untuk melihat](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FGilarSumilar%2FPraktikum2%2Fmain%2FPenjelasan%2520pembuatan%2520.docx&wdOrigin=BROWSELINK) |
 
