@@ -7,6 +7,7 @@
 | **NIM** | 312210407 |
 | **Kelas** | TI.22.A.4 |
 | **Mata Kuliah** | Basis data |
+| **Link Penjelasan** | [I'm an inline-style link](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FGilarSumilar%2FPraktikum2%2Fmain%2FPenjelasan%2520pembuatan%2520.docx&wdOrigin=BROWSELINK) |
 
 # Membuat database kampus
 
